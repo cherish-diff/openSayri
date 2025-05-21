@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_quill import st_quill
 import os, uuid, time
 
 print("re rendering", time.strftime("%H:%M:%S"))
